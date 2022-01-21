@@ -17,12 +17,13 @@ body{
     height: 80px;
 }
 .banner{
-    height: calc(100vh - 80px);
+    min-height: calc(100vh - 80px);
+   
 }
 
 /*-------------------- nessted work-------------- */
 .new-web-design{
-    height: 100vh;
+    /* height: 100vh; */
 }
 /* ------------stop writing --------- */
 .stop-waiting{
